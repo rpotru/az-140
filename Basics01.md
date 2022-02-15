@@ -1,11 +1,11 @@
-Targeting the AZ-140 exam preparation guide located here.
+## Targeting the AZ-140 exam preparation guide located here.
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
 
-Lab setup:
-Create outlook account - https://outlook.live.com/owa/  (signup if you don't have one only)
-Login to https://www.portal.azure.com/ with the above credemtials.
+## Lab setup:
+ - Create outlook account - https://outlook.live.com/owa/  (signup if you don't have one only)
+ - Login to https://www.portal.azure.com/ with the above credemtials.
 
-Basics:
+## Basics:
 Difference between IaaS/PaaS/SaaS
 
 https://azure.microsoft.com/en-us/overview/what-is-iaas/#overview

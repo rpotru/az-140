@@ -10,9 +10,9 @@ Difference between IaaS/PaaS/SaaS
 
 https://azure.microsoft.com/en-us/overview/what-is-iaas/#overview
 
-IaaS - We are responsibility for everything from installing the required software to configurations. Cloud provider provides compute, network,storage on demand.Ex: Azure Virtual Machine
-PaaS - We are responsible for server configurations and scaling etc. Ex: Azure app Service, Azure CDN 
-SaaS - Not much responsibility as everything is consumed through browser. Ex: gmail. (Vendor deals with most of the security, infrastructure etc.)
+- IaaS - We are responsibility for everything from installing the required software to configurations. Cloud provider provides compute, network,storage on demand.Ex: Azure Virtual Machine
+- PaaS - We are responsible for server configurations and scaling etc. Ex: Azure app Service, Azure CDN 
+- SaaS - Not much responsibility as everything is consumed through browser. Ex: gmail. (Vendor deals with most of the security, infrastructure etc.)
 
 Active Directory
 Organizational Unit (OU)

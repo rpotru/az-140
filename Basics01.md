@@ -1,4 +1,4 @@
-## Targeting the AZ-140 exam preparation guide located here.
+## AZ-140 exam preparation guide.
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
 
 ## Lab setup:

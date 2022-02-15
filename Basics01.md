@@ -14,9 +14,11 @@ https://azure.microsoft.com/en-us/overview/what-is-iaas/#overview
 - PaaS - We are responsible for server configurations and scaling etc. Ex: Azure app Service, Azure CDN 
 - SaaS - Not much responsibility as everything is consumed through browser. Ex: gmail. (Vendor deals with most of the security, infrastructure etc.)
 
-Active Directory
-Organizational Unit (OU)
-Group Policy
-Roaming profiles
+## Learn basics about the following.
+
+- Active Directory
+- Organizational Unit (OU)
+- Group Policy
+- Roaming profiles
 
 Microsoft Intune - Software deployment software to Laptops, VDIs

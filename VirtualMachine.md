@@ -1,4 +1,4 @@
-Virtual Machines can be created in multiple ways using the GUI, command line or scripted/tools approach. Let us explore multiple ways of creation.
+### Virtual Machines can be created in multiple ways using the GUI, command line or scripted/tools approach. Let us explore multiple ways of creation.
 
 1) Using Azure Portal
    https://www.portal.azure.com

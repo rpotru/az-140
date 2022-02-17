@@ -1,9 +1,11 @@
-1)Using Azure Portal
-https://www.portal.azure.com
+Virtual Machines can be created in multiple ways using the GUI, command line or scripted/tools approach. Let us explore multiple ways of creation.
+
+1) Using Azure Portal
+   https://www.portal.azure.com
 
 
-2)Scripted methodology 
-Using the Powershell/Bash/Azure CLI
+2) Scripted methodology 
+   Using the Powershell/Bash/Azure CLI
 ```sh
 New-AzVm `
     -ResourceGroupName 'labrg01' `
@@ -16,8 +18,8 @@ New-AzVm `
     -OpenPorts 3389
  ```
 	
-3)Azure ARM templates
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
+3) Azure ARM templates
+  https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
 
 4) Terraform (IaC tool to deploy anything through code Azure/AWS/Google cloud)
 ```sh

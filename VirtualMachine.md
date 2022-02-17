@@ -23,6 +23,10 @@ New-AzVm `
 
 4) Terraform (IaC tool to deploy anything through code Azure/AWS/Google cloud)
 ```sh
+terraform init
+terraform validate
 terraform plan
 terraform apply
+terraform destroy
+terraform output
 ```

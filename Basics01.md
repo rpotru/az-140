@@ -16,9 +16,11 @@ https://azure.microsoft.com/en-us/overview/what-is-iaas/#overview
 
 ## Learn basics about the following.
 
-- Active Directory
+- Active Directory 
 - Organizational Unit (OU)
 - Group Policy
 - Roaming profiles
+
+https://slideplayer.com/slide/7244538/ (Review the diagrams, AD, Domain, OU, Domain Controller, Group Policy)
 
 Microsoft Intune - Software deployment software to Laptops, VDIs

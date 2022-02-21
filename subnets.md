@@ -19,3 +19,9 @@ CIDR blocks:
 
 https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/
 
+In general, there will be 2 ip addresses are reserved. /24 network - 256-2= 254 IP addresseses available.
+
+Azure available IP address in /24 - 256 -5 (reserved) = 251
+
+
+

@@ -24,7 +24,8 @@ get-help Get-service -examples
 
 
 ## Go through the table listed in the following.
-https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/
+- https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/
+- https://cdn.comparitech.com/wp-content/uploads/2018/08/Comparitech-Powershell-cheatsheet.pdf
 
 ## Other articles to go through
 - https://petri.com/the-top-10-powershell-commands-that-you-should-know
